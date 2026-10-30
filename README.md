@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Matías Chalave 👋
+# Hola, soy Matias Chalave 👋
 
 <a href="https://github.com/matiasch256">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Sistemas;.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+SQL+Server;Soluciones+End-to-End+con+IA" alt="Full Stack Developer · Analista de Sistemas" />
