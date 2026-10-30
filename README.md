@@ -3,7 +3,7 @@
 # Hola, soy Matias Chalave 👋
 
 <a href="https://github.com/matiasch256">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Sistemas;.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+SQL+Server;Soluciones+End-to-End+con+IA" alt="Full Stack Developer · Analista de Sistemas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Sistemas;Soluciones+End-to-End+con+IA" alt="Full Stack Developer · Analista de Sistemas" />
 </a>
 
 <p>
@@ -23,7 +23,7 @@ Desarrollador **Full Stack** y **Analista de Sistemas**. Construyo soluciones de
 - 🏗️ Trabajo con el ecosistema **.NET** y con **JavaScript/TypeScript** (React, Node.js, Express) sobre **SQL Server** y **MySQL**.
 - 🏥 Desarrollé un **ERP de gestión clínica** que digitaliza turnos, pacientes, facturación y stock.
 - 🌍 Personalizo **e-commerce internacionales** en Shopify para clientes del exterior.
-- 🤖 Integro **APIs de IA** (Google Gemini) en herramientas de automatización.
+- 🤖 Integro **APIs de IA** en herramientas de automatización.
 - 🤝 Trabajo en equipo con metodologías ágiles, con foco en código limpio y orientado al negocio.
 
 ---
