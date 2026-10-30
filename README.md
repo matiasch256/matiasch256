@@ -31,38 +31,38 @@ Desarrollador **Full Stack** y **Analista de Sistemas**. Construyo soluciones de
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui,bootstrap,vite" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Material UI, Bootstrap, Vite" /></td>
+    <td><picture><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui,bootstrap,vite" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Material UI, Bootstrap, Vite" /></picture></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python" alt="C#, .NET, Node.js, Express, Python" /></td>
+    <td><picture><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python" alt="C#, .NET, Node.js, Express, Python" /></picture></td>
   </tr>
   <tr>
     <td><b>Bases de datos</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <picture><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></picture>
+      <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>E-commerce</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-      <img src="https://img.shields.io/badge/Liquid-004999?style=for-the-badge&logoColor=white" alt="Liquid" />
+      <picture><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></picture>
+      <picture><img src="https://img.shields.io/badge/Liquid-004999?style=for-the-badge&logoColor=white" alt="Liquid" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>IA</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+      <picture><img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" /></picture>
+      <picture><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></picture>
+      <picture><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /></picture>
+      <picture><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>Herramientas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,jira,confluence" alt="Git, GitHub, Bitbucket, Vercel, Jira, Confluence" /></td>
+    <td><picture><img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,jira,confluence" alt="Git, GitHub, Bitbucket, Vercel, Jira, Confluence" /></picture></td>
   </tr>
 </table>
 
@@ -80,11 +80,11 @@ Desarrollador **Full Stack** y **Analista de Sistemas**. Construyo soluciones de
         <li>Dashboards y reportes en Excel y PDF</li>
         <li>Autenticación JWT y permisos por rol</li>
       </ul>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <picture><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></picture>
+      <picture><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" /></picture>
+      <picture><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></picture>
+      <picture><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /></picture>
+      <picture><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></picture>
     </td>
     <td width="50%" valign="top">
       <h4>🛍️ E-commerce Internacional · Chabona Art Studio (Suecia)</h4>
@@ -94,11 +94,11 @@ Desarrollador **Full Stack** y **Analista de Sistemas**. Construyo soluciones de
         <li>Mejoras de UX y rendimiento</li>
         <li>Flujo de trabajo con Shopify CLI</li>
       </ul>
-      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-      <img src="https://img.shields.io/badge/Liquid-004999?style=flat-square" alt="Liquid" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <picture><img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" /></picture>
+      <picture><img src="https://img.shields.io/badge/Liquid-004999?style=flat-square" alt="Liquid" /></picture>
+      <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></picture>
+      <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></picture>
+      <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></picture>
     </td>
   </tr>
 </table>
