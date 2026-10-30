@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Sistemas;Soluciones+End-to-End+con+IA" alt="Full Stack Developer · Analista de Sistemas" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/matiaschalave/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matiasch256@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<picture>
   <img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-2EA44F?style=for-the-badge" alt="Abierto a oportunidades" />
-</p>
+</picture>
 
 </div>
 
